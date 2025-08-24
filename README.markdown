@@ -2,7 +2,7 @@
 
 ## Repository Description
 
-This repository contains quality assurance artifacts for the Movie Management System (MMS), a MERN stack application developed as part of the Software Quality Engineering course at FAST – National University of Computer & Emerging Sciences, Islamabad Campus. It includes a comprehensive test plan, static code analysis report highlighting reliability, maintainability, and code duplication issues, and defect reports documenting identified bugs with reproduction steps and screenshots.
+This repository contains quality assurance artifacts for the Movie Management System (MMS), a MERN stack application. It includes a comprehensive test plan, static code analysis report highlighting reliability, maintainability, and code duplication issues, and defect reports documenting identified bugs with reproduction steps and screenshots.
 
 The test plan outlines testing strategies for functional, integration, performance, security, and UI aspects of MMS modules like movie management, user authentication, reviews, recommendations, subscriptions, notifications, and watch history. The static analysis report uses tools to identify code smells and improvements. Defect reports detail issues such as invalid input handling in subscription forms.
 
@@ -62,8 +62,3 @@ Contributions to improve documentation or add test cases are welcome:
 
 ### License
 MIT License - see `LICENSE` for details.
-
-### Contact
-- **Group Members**: Abdullah Daoud (22I-2626), Usman Ali (22I-2725), Faizan Rasheed (22I-2734)
-- **Instructor**: Madam Uzma Mahar
-- **Institution**: FAST-NUCES, Islamabad Campus
